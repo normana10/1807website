@@ -35,6 +35,9 @@ jobs:
         path: "build"
     - name: Deploy GitHub Pages site
       uses: actions/deploy-pages@v4.0.0
+      with:
+        # GitHub token
+        token: ${{ secrets.GITHUB_TOKEN }}
           
           
           
