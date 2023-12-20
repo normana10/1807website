@@ -2,7 +2,7 @@
   "name": "frc1807",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://normana10.github.io/1807website",
+  "homepage": "https://1807website.normand.space",
   "dependencies": {
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
